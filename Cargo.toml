@@ -1,6 +1,6 @@
 [package]
 name = "los"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Hans-Martin Will <hwill@acm.org>"]
 edition = "2018"
 description = "Library Operating System for Rust"
